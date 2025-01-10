@@ -4,11 +4,11 @@ Have you ever caught someone leaving their laptop unlocked during class or at wo
 
 ## What Is This Repository?
 
-This repository is your go-to hub for prank-worthy, lighthearted `.exe` files that add a bit of humor to someone's day. No harm, no foul—just laughs. These executables are created to run harmless pranks, display funny pop-ups, or play quirky sounds. It's all in good fun, with no malicious intent.
+This repository is your go-to hub for prank-worthy, lighthearted `.exe` files that add a bit of humor to someone's day. These executables are created to run pranks, display funny pop-ups, or play quirky sounds. All in good fun.
 
 ## Why Use FunnyThingsToDownload?
 
-- **Harmless Fun**: All executables are vetted to ensure they cause no damage to the target system.
+- **(Not Always) Harmless Fun**: All executables could harm ur PC.
 - **Easy to Use**: Simple drag-and-drop executables for quick laughs.
 - **Customizable**: Feel free to contribute your own funny ideas (as long as they follow our rules).
 
@@ -22,10 +22,7 @@ This repository is your go-to hub for prank-worthy, lighthearted `.exe` files th
 
 ## Example Files
 
-- **Dancing Banana.exe**: Brings back the iconic dancing banana on repeat.
-- **Endless Compliments.exe**: A series of pop-ups with random compliments.
-- **Meowing Cat.exe**: Plays a random meow every 10 seconds.
-- **Zoom Bomb.exe**: Simulates a never-ending "You're muted" message.
+- **LaptopOffen.exe**: Creates round about 10000 files in the directory ur opening it in.
 
 ## Contribution Guidelines
 
@@ -37,8 +34,6 @@ We’d love for you to contribute your own harmless and funny `.exe` files! Here
 
 ### Rules for Contributions
 
-- **Keep it Safe**: No malicious files, no permanent changes, and no harm to hardware or software.
-- **Keep it Funny**: The goal is to make people laugh, not to scare or upset them.
 - **Keep it Clean**: No offensive content, please.
 
 ## Disclaimer
